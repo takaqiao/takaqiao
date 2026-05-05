@@ -15,7 +15,7 @@
 
 ## 你好 / Hi
 
-我是 **Taka**，跑团 GM，目前在 Foundry VTT v14 上跑《憎恶的金库》(*Abomination Vaults*)。GitHub 上的开源活动主要围绕：
+我是 **Taka**，跑团 GM，目前在 Foundry VTT v14 上跑《憎恶地窟》《赤凰斗士》《暴君之爪》。GitHub 上的开源活动主要围绕：
 
 - 给 Foundry VTT 写实用的小模组（PF2e / SF2e / Crucible 体系）
 - 维护中文翻译合集（PF2e / SF2e / Crucible / Ember 等）
