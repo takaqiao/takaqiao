@@ -2,7 +2,7 @@
 
 # Taka
 
-**PF2e GM · Foundry VTT v14 · 中文社区翻译与小工具**
+**Pathfinder 2e GM · Foundry VTT v14 · 中文社区翻译与小工具**
 
 [![Foundry VTT](https://img.shields.io/badge/Foundry%20VTT-v13%20%7C%20v14-orange?logo=foundryvirtualtabletop&logoColor=white)](https://foundryvtt.com/)
 [![Pathfinder 2e](https://img.shields.io/badge/Pathfinder-2e-c1272d)](https://paizo.com/pathfinder)
