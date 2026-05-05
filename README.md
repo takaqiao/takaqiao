@@ -54,18 +54,25 @@ I'm Taka — a Pathfinder 2e GM running games on Foundry VTT v14. Most of what I
 
 ---
 
-## Stats
+## 模组现状 / Module status
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=takaqiao&show_icons=true&theme=onedark&include_all_commits=true&count_private=false&hide_border=true&card_width=420" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takaqiao&layout=compact&theme=onedark&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
-</td>
-</tr>
-</table>
+实时拉自 GitHub releases 与 Foundry packages registry。
+
+| Module | Latest | Foundry | Total downloads | Latest release |
+|---|---|---|---|---|
+| **pf2e-dsn-persistent-bridge** | [![](https://img.shields.io/github/v/release/takaqiao/pf2e-dsn-persistent-bridge?style=flat-square&label=&color=blue)](https://github.com/takaqiao/pf2e-dsn-persistent-bridge/releases/latest) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Ftakaqiao%2Fpf2e-dsn-persistent-bridge%2Freleases%2Flatest%2Fdownload%2Fmodule.json&style=flat-square&label=)](https://foundryvtt.com/packages/pf2e-dsn-persistent-bridge) | ![](https://img.shields.io/github/downloads/takaqiao/pf2e-dsn-persistent-bridge/total?style=flat-square&label=&color=brightgreen) | ![](https://img.shields.io/github/downloads/takaqiao/pf2e-dsn-persistent-bridge/latest/total?style=flat-square&label=) |
+| **pf2e-xp-tool** | [![](https://img.shields.io/github/v/release/takaqiao/pf2e-xp-tool?style=flat-square&label=&color=blue)](https://github.com/takaqiao/pf2e-xp-tool/releases/latest) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Ftakaqiao%2Fpf2e-xp-tool%2Freleases%2Flatest%2Fdownload%2Fmodule.json&style=flat-square&label=)](https://foundryvtt.com/packages/pf2e-xp-tool) | ![](https://img.shields.io/github/downloads/takaqiao/pf2e-xp-tool/total?style=flat-square&label=&color=brightgreen) | ![](https://img.shields.io/github/downloads/takaqiao/pf2e-xp-tool/latest/total?style=flat-square&label=) |
+| **pf2e-compendium-extra-cn** | [![](https://img.shields.io/github/v/release/takaqiao/pf2e-compendium-extra-cn?style=flat-square&label=&color=blue)](https://github.com/takaqiao/pf2e-compendium-extra-cn/releases/latest) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Ftakaqiao%2Fpf2e-compendium-extra-cn%2Freleases%2Flatest%2Fdownload%2Fmodule.json&style=flat-square&label=)](https://foundryvtt.com/packages/pf2e-compendium-extra-cn) | ![](https://img.shields.io/github/downloads/takaqiao/pf2e-compendium-extra-cn/total?style=flat-square&label=&color=brightgreen) | ![](https://img.shields.io/github/downloads/takaqiao/pf2e-compendium-extra-cn/latest/total?style=flat-square&label=) |
+| **sf2e_cn** | [![](https://img.shields.io/github/v/release/takaqiao/sf2e_cn?style=flat-square&label=&color=blue)](https://github.com/takaqiao/sf2e_cn/releases/latest) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Ftakaqiao%2Fsf2e_cn%2Freleases%2Flatest%2Fdownload%2Fmodule.json&style=flat-square&label=)](https://foundryvtt.com/packages/sf2cn) | ![](https://img.shields.io/github/downloads/takaqiao/sf2e_cn/total?style=flat-square&label=&color=brightgreen) | ![](https://img.shields.io/github/downloads/takaqiao/sf2e_cn/latest/total?style=flat-square&label=) |
+| **sf2e_compendium_cn** | [![](https://img.shields.io/github/v/release/takaqiao/sf2e_compendium_cn?style=flat-square&label=&color=blue)](https://github.com/takaqiao/sf2e_compendium_cn/releases/latest) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Ftakaqiao%2Fsf2e_compendium_cn%2Freleases%2Flatest%2Fdownload%2Fmodule.json&style=flat-square&label=)](https://foundryvtt.com/packages/sf2ecompendium) | ![](https://img.shields.io/github/downloads/takaqiao/sf2e_compendium_cn/total?style=flat-square&label=&color=brightgreen) | ![](https://img.shields.io/github/downloads/takaqiao/sf2e_compendium_cn/latest/total?style=flat-square&label=) |
+| **crucible-cn** | [![](https://img.shields.io/github/v/release/takaqiao/crucible-cn?style=flat-square&label=&color=blue)](https://github.com/takaqiao/crucible-cn/releases/latest) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Ftakaqiao%2Fcrucible-cn%2Freleases%2Flatest%2Fdownload%2Fmodule.json&style=flat-square&label=)](https://foundryvtt.com/packages/crucible-cn) | ![](https://img.shields.io/github/downloads/takaqiao/crucible-cn/total?style=flat-square&label=&color=brightgreen) | ![](https://img.shields.io/github/downloads/takaqiao/crucible-cn/latest/total?style=flat-square&label=) |
+
+## GitHub
+
+[![Followers](https://img.shields.io/github/followers/takaqiao?style=flat-square&label=Followers&logo=github)](https://github.com/takaqiao?tab=followers)
+[![Stars](https://img.shields.io/github/stars/takaqiao?style=flat-square&label=Stars&logo=github&affiliations=OWNER)](https://github.com/takaqiao?tab=repositories&q=&type=&sort=stargazers)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftakaqiao&logo=github)](https://github.com/takaqiao?tab=repositories)
+[![Member since](https://img.shields.io/badge/GitHub%20since-2015-181717?style=flat-square&logo=github)](https://github.com/takaqiao)
 
 ---
 
