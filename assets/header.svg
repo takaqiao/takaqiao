@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+  <title id="title">Taka</title>
+  <desc id="desc">Foundry VTT modules and localization tools, with a geometric twenty-sided die.</desc>
+  <rect width="960" height="224" rx="12" fill="#23344B"/>
+  <path d="M0 223H960" stroke="#8FA6BF" stroke-width="2"/>
+  <g fill="none" stroke="#526B88" stroke-width="1" opacity=".35">
+    <path d="M666 0v224M762 0v224M858 0v224M624 56h336M624 112h336M624 168h336"/>
+  </g>
+  <text x="46" y="101" fill="#F3F6FC" font-family="Palatino Linotype, Book Antiqua, Georgia, serif" font-size="76" font-weight="bold">Taka</text>
+  <text x="50" y="145" fill="#D1DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="25">Foundry VTT modules &amp; localization tools</text>
+  <text x="50" y="183" fill="#A8BBD2" font-family="Segoe UI, Arial, sans-serif" font-size="17">Pathfinder 2e GM. Community tooling. Chinese localization.</text>
+  <g transform="translate(758 35)" fill="none" stroke-linejoin="round">
+    <path d="M70 0 138 41 138 120 70 159 2 120 2 41Z" stroke="#B9C8DB" stroke-width="2"/>
+    <path d="M70 0 32 65 108 65Z M2 41 32 65 2 120 M138 41 108 65 138 120 M32 65 70 128 108 65 M2 120 70 128 138 120 M70 128 70 159" stroke="#91A8C5" stroke-width="1.5"/>
+    <path d="M32 65H108L70 128Z" fill="#334D6C" stroke="#C6D2E3" stroke-width="2"/>
+    <circle cx="70" cy="83" r="3" fill="#D1DDEE" stroke="none"/>
+  </g>
+</svg>
